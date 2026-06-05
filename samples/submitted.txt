@@ -1,0 +1,26 @@
+Artificial intelligence is the simulation of human intelligence processes
+by machines especially computer systems. These processes include learning
+the acquisition of information and rules for using the information reasoning
+using rules to reach approximate or definite conclusions and self correction.
+
+Machine learning is an area of artificial intelligence that gives systems
+the ability to automatically improve from experience without being explicitly
+programmed. It focuses on developing computer programs that access data
+and use it to learn on their own.
+
+Deep learning belongs to a broader family of machine learning approaches based
+on artificial neural networks with representation learning. Learning types include
+supervised semi supervised or unsupervised. Deep learning architectures like
+deep neural networks recurrent neural networks and convolutional neural networks
+have found applications in computer vision speech recognition natural language
+processing and audio recognition.
+
+Data science is an interdisciplinary domain that employs scientific methods
+processes algorithms and systems to extract knowledge and insights from
+structured and unstructured data and apply actionable insights across
+many application domains.
+
+Java is a high level object oriented programming language designed to have
+as few implementation dependencies as possible. It is a general purpose
+programming language that is class based and follows the write once run
+anywhere philosophy making compiled Java code run on all platforms.

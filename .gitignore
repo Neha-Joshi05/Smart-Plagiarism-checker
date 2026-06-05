@@ -1,0 +1,55 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Test and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Output files (generated reports)
+outputs/
+reports/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python packaging
+pip-wheel-metadata/
+
+# MyPy
+.mypy_cache/
+
+# PyCharm
+.idea/
